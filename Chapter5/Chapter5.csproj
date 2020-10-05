@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{116699F8-B56E-49EF-A09B-15D0203D3C2F}</ProjectGuid>
+    <ProjectGuid>{2688496D-E093-4B26-BA41-6EEA63D1FFA9}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Chapter4</RootNamespace>
-    <AssemblyName>Chapter4</AssemblyName>
+    <RootNamespace>Chapter5</RootNamespace>
+    <AssemblyName>Chapter5</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -45,7 +45,6 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="YearMonth.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
